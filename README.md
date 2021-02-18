@@ -26,7 +26,7 @@ Time-related variable:
 1. NRF(National Retail Federation): https://nrf.com/blog/closer-look-2020s-top-and-hot-retailer-lists
 
 
-**Questions**
+**Questions:**
 
 
 
