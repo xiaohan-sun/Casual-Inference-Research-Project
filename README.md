@@ -24,13 +24,10 @@ Time-related variable:
 **resourse:**
 
 1. NRF(National Retail Federation): https://nrf.com/blog/closer-look-2020s-top-and-hot-retailer-lists
-2. 
 
 **Questions**
 
-1. Pooled data or panel data? 
-2. Is the sample size too small if I only compare the two years of data (2019, 2020) ?
-3. 
+
 
 
 
