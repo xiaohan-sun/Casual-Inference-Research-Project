@@ -21,14 +21,15 @@ Time-related variable:
 
 
 
-**resourse:**
+**Resourse:**
 
 1. NRF(National Retail Federation): https://nrf.com/blog/closer-look-2020s-top-and-hot-retailer-lists
+
 
 **Questions**
 
 
 
 
-
+## Reference
 https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12170
