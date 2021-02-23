@@ -13,8 +13,11 @@ FE estimation on panel data
 
 ## Variables 
 Dependent Variable: retail sales for pick-up and delivery in online platform.
-Independent Variable: COVID‐19 Case, COVID‐19 Google Searches and Newspaper Articles, 
+
+Independent Variable: COVID‐19 Case, COVID‐19 Google Searches and Newspaper Articles...
+
 Control variables: product category??
+
 Time-related variable: 
 
 ## Data (Weekly)
