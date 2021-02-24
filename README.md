@@ -34,7 +34,7 @@ DATA.GOV: https://catalog.data.gov/dataset?q=retail&ext_location=&sort=score+des
 
 ## Reference
 
-https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12170
+COVID‐19 and the Demand for Online Food Shopping Services: Empirical Evidence from Taiwan: https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12170
 
-https://www.icommercecentral.com/open-access/factors-affecting-ecommerce-potential-of-any-country-using-multiple-regression-analysis.php?aid=87651
+FACTORS AFFECTING E-COMMERCE POTENTIAL OF ANY COUNTRY USING MULTIPLE REGRESSION ANALYSIS: https://www.icommercecentral.com/open-access/factors-affecting-ecommerce-potential-of-any-country-using-multiple-regression-analysis.php?aid=87651
 
