@@ -16,7 +16,7 @@ Panel data model with FE estimation
 
 **Outcome Variable:** Online sales
 
-**Measures of COVID‐19 cases, tests and information seeking: **
+**Measures of COVID‐19 cases, tests and information seeking:**
 
 Weekly cases, Cumulative cases, Keyword search index, News search index, Newspaper mentions
 
