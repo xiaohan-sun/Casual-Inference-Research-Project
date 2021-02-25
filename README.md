@@ -42,6 +42,8 @@ Panel data model with FE estimation
 
 U.S. Census Bureau: https://www.census.gov/retail/index.html#mrts
 
+Monthly Retail Trade - Quarterly E-Commerce Report: https://www.census.gov/retail/ecommerce/historic_releases.html
+
 DATA.GOV monthly-retail-trade-survey: https://catalog.data.gov/dataset/monthly-retail-trade-survey
 
 DATA.GOV: https://catalog.data.gov/dataset?q=retail&ext_location=&sort=score+desc%2C+name+asc&ext_prev_extent=-182.8125%2C-30.751277776257812%2C-18.28125%2C72.81607371878991&tags=food&ext_bbox=
