@@ -1,6 +1,6 @@
 # CI-research-project
 
-## Topic 1
+## Topic
 
 Effect of COVID-19 on e-commerce market In the U.S.
 
