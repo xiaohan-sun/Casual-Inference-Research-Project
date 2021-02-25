@@ -40,7 +40,7 @@ Panel data model with FE estimation
 
 ## Data (monthly)
 
-U.S. Census Bureau: https://www.census.gov/retail/marts/www/marts_current.pdf
+U.S. Census Bureau: https://www.census.gov/retail/index.html#mrts
 
 DATA.GOV monthly-retail-trade-survey: https://catalog.data.gov/dataset/monthly-retail-trade-survey
 
