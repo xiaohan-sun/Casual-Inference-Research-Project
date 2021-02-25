@@ -36,7 +36,7 @@ Panel data model with FE estimation
 
 **Indicator variables:** product categories
 
-**Fixed effects:** month, week
+**Fixed effects:** month, year
 
 ## Data (monthly)
 
