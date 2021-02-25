@@ -6,7 +6,21 @@ Effect of COVID-19 on e-commerce market In the U.S.
 
 ## object
 
-Top 10 popular product categories  
+Motor vehicle and parts
+
+Furniture and home furnishings
+
+Electronics and appliance
+
+Building mat. and garden equip. and supplies
+
+Food and beverage
+
+Health and personal care
+
+Clothing and clothing access 
+
+Sporting goods, hobby, musical instrument, and book
 
 ## Method
 
