@@ -32,11 +32,11 @@ Panel data model with FE estimation
 
 **Measures of COVID‐19 cases, tests and information seeking:** Weekly cases, Cumulative cases, Keyword search index, News search index, Newspaper mentions
 
-**explanatory variables:** physical sales
+**Explanatory variables:** physical sales
 
-**indicator variables:** Top 10 popular product categories
+**Indicator variables:** product categories
 
-**fixed effects:** month, week
+**Fixed effects:** month, week
 
 ## Data (monthly)
 
