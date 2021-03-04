@@ -14,7 +14,7 @@ Panel data model with FE estimation
 
 **Measures of COVID‐19 cases, tests and information seeking:** monthly cases, Cumulative cases, Keyword search index, News search index, Newspaper mentions
 
-**control variables:** product categories, states，physical sales and online sales
+**control variables:** product categories，physical sales and online sales
 
 **Fixed effects:** month, year
 
