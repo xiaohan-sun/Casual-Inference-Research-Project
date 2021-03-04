@@ -2,25 +2,7 @@
 
 ## Topic
 
-Effect of COVID-19 on e-commerce market In the U.S.
-
-## Object
-
-Motor vehicle and parts
-
-Furniture and home furnishings
-
-Electronics and appliance
-
-Building mat. and garden equip. and supplies
-
-Food and beverage
-
-Health and personal care
-
-Clothing and clothing access 
-
-Sporting goods, hobby, musical instrument, and book
+Effect of COVID-19 on retail market In the U.S.
 
 ## Method
 
@@ -28,13 +10,11 @@ Panel data model with FE estimation
 
 ## Variables 
 
-**Outcome Variable:** Online sales
+**Outcome Variable:** physical sales and online sales
 
-**Measures of COVID‐19 cases, tests and information seeking:** Weekly cases, Cumulative cases, Keyword search index, News search index, Newspaper mentions
+**Measures of COVID‐19 cases, tests and information seeking:** monthly cases, Cumulative cases, Keyword search index, News search index, Newspaper mentions
 
-**Explanatory variables:** physical sales
-
-**Indicator variables:** product categories
+**control variables:** product categories, states
 
 **Fixed effects:** month, year
 
@@ -53,4 +33,3 @@ DATA.GOV: https://catalog.data.gov/dataset?q=retail&ext_location=&sort=score+des
 COVID‐19 and the Demand for Online Food Shopping Services: Empirical Evidence from Taiwan: https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12170
 
 FACTORS AFFECTING E-COMMERCE POTENTIAL OF ANY COUNTRY USING MULTIPLE REGRESSION ANALYSIS: https://www.icommercecentral.com/open-access/factors-affecting-ecommerce-potential-of-any-country-using-multiple-regression-analysis.php?aid=87651
-
