@@ -2,7 +2,7 @@
 
 ## Topic
 
-Effect of COVID-19 on retail market In the U.S.
+Effect of COVID-19 on retail market in the U.S.
 
 ## Method
 
