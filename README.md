@@ -10,11 +10,11 @@ Panel data model with FE estimation
 
 ## Variables 
 
-**Outcome Variable:** physical sales and online sales
+**Outcome Variable:** total retail sales
 
 **Measures of COVID‐19 cases, tests and information seeking:** monthly cases, Cumulative cases, Keyword search index, News search index, Newspaper mentions
 
-**control variables:** product categories, states
+**control variables:** product categories, states，physical sales and online sales
 
 **Fixed effects:** month, year
 
